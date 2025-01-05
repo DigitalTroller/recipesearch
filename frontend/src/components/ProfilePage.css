@@ -1,0 +1,28 @@
+.profile-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .profile-page h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .profile-page h3 {
+    margin: 10px 0;
+    color: #4caf50;
+  }
+  
+  .profile-page p {
+    color: #777;
+    font-size: 1em;
+  }
+  
+  .profile-page div {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    display: inline-block;
+  }
+  
